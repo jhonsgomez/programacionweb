@@ -1,0 +1,64 @@
+/* ========== CSS Personalizado ========== */
+
+/* ========== Tipos de Selectores ========== */
+
+/* ========== - Selector Universal (*) ==========
+
+    * {
+        border: 1px solid red;
+    }
+
+*/
+
+/* ========== - Selector de etiqueta (Nombre) ==========
+
+    h1 {
+        color: seagreen;
+    }
+
+    p {
+        color: red;
+        font-size: 20px;
+    }
+
+*/
+
+/* ========== -Selector descendente (Jerarquia) ========== 
+
+    main section h1 {
+        color: blue;
+    }
+
+    footer p {
+        color: sienna;
+        font-size: x-large;
+    }
+
+*/
+
+/* ==========  -Selector de ID (#) ==========*/
+
+    #h1-descuentos {
+        color: green;
+    }
+
+    #encabezado {
+        background-color: tomato;
+    }
+
+    #footer {
+        background-color: #3355ff;
+    }
+
+    #section-promociones h1 {
+        color: red;
+    }
+
+
+
+/* ========== -Selector de Clase  ==========*/
+
+    .fondo-rosado {
+        background-color: pink;
+    }
+
